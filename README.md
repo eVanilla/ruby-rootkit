@@ -5,4 +5,4 @@
 # how can i use it?
 Just check out the files [ `server.rb`, `client.rb` ] then configure them
 
-**just for education purposes**
+**just for educational purposes**
